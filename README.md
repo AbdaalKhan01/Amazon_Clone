@@ -13,7 +13,11 @@ Ensured cross-browser compatibility and a smooth user experience.
 **Technologies:** 
 
 HTML5 
+
 CSS3 
+
 Font Awesome 
+
 Git 
+
 Visual Studio Code
